@@ -3,15 +3,20 @@
 To operate the API provided by Nameilo Website.
 
 ## Usage
+
 Provide the function of querying, changing, adding and deleting DNS records 
 of domain name.
 
 ## ATTENTION
+
 \=======================================
+
 !! need to change API key before use !!
+
 \=======================================
 
 ## License
+
 ```
 Copyright (c) [2020] [bobwxc]
 [namesilo_api_shell] is licensed under Mulan PSL v2.
